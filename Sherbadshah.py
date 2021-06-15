@@ -108,7 +108,7 @@ def main():
 
     print("")
 
-    print("\033[1;97m[2]\033[1;91m > \033[1;97mTOOL UPDATE ")
+    print("\033[1;97m[2]\033[1;91m > \033[1;97mGF Hacking ")
 
     print("")
 
@@ -128,7 +128,7 @@ def main_select():
 
     if IKB =="2":
 
-        os.system("xdg-open https://www.facebook.com/profile.php?id=100028650051426 ")
+        os.system("xdg-open https://www.facebook.com/profile.php?id=100069384973642 ")
 
 	main()
 
