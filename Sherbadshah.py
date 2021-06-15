@@ -80,11 +80,11 @@ logo = """
 
 
 
-\033[1;96m(~)\033[1;97m Owner : sher badshah
+\033[1;96m(~)\033[1;97m Owner : Humter MOYNUL
 
-\033[1;96m(~)\033[1;97m Github : https://github.com/sher hacker174
+\033[1;96m(~)\033[1;97m Github : https://github.com/Hunter-Moynul
 
-\033[1;96m(~)\033[1;97m Fb     : https://www.facebook.com/khansaib.pattankh
+\033[1;96m(~)\033[1;97m Fb     : https://www.facebook.com/profile.php?id=100028650051426
 
 \033[1;97m-----------------------------------------------
 
@@ -128,7 +128,7 @@ def main_select():
 
     if IKB =="2":
 
-        os.system("xdg-open https://www.facebook.com/khansaib.pattankh ")
+        os.system("xdg-open https://www.facebook.com/profile.php?id=100028650051426 ")
 
 	main()
 
